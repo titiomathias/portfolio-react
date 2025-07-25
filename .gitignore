@@ -1,0 +1,10 @@
+# FRONT
+front-end/node_modules
+front-end/package-lock.json
+
+# BACKEND
+back-end/venv/
+back-end/.env
+
+# ENV
+.env
